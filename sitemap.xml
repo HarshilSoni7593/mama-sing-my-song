@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.mamasingmysong.com/index.html</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.mamasingmysong.com/about.html</loc>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.mamasingmysong.com/foster-care.html</loc>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.mamasingmysong.com/testimonials.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.mamasingmysong.com/gift-cards.html</loc>
+    <priority>0.80</priority>
+  </url>
+</urlset>
